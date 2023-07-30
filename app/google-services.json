@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "224778177311",
+    "project_id": "saucc-d29d8",
+    "storage_bucket": "saucc-d29d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224778177311:android:02aa48088a7d8fbb03fe2a",
+        "android_client_info": {
+          "package_name": "com.mitsit.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224778177311-tdrj34ug0r365kb23tddjii9vjmqjopd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPG9jQavGMhW94qhMGe9RmFwSFAwya5Ls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224778177311-tdrj34ug0r365kb23tddjii9vjmqjopd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
